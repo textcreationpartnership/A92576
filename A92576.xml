@@ -1,0 +1,212 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from the Parliament of Scotland to the Parliament of England with severall demands therein, in relation to the King and both kingdomes. Also, the copy of the oath taken by all the members of the Parliament in Scotland, and some orders made since their sitting.</title>
+            <author>Scotland. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92576</idno>
+            <idno type="STC">Wing S1285</idno>
+            <idno type="STC">Thomason E432_16</idno>
+            <idno type="STC">ESTC R206149</idno>
+            <idno type="EEBO-CITATION">99865326</idno>
+            <idno type="PROQUEST">99865326</idno>
+            <idno type="VID">161530</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92576)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161530)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 68:E432[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from the Parliament of Scotland to the Parliament of England with severall demands therein, in relation to the King and both kingdomes. Also, the copy of the oath taken by all the members of the Parliament in Scotland, and some orders made since their sitting.</title>
+                  <author>Scotland. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for B.D. and are to be sold neer the Royall Exchange in Cornhill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "March 16 1647"; the 8 in the imprint date is crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland. --  Parliament --  Early works to 1800.</term>
+               <term>Solemn League and Covenant (1643) --  Early works to 1800.</term>
+               <term>Scotland --  Foreign relations --  England --  Early works to 1800.</term>
+               <term>England --  Foreign relations --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161530:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 56 -->
+            <p>A LETTER From the Parliament of SCOTLAND To the Parliament of ENGLAND WITH Severall Demands therein, in relation to the King and both Kingdomes. <hi>ALSO,</hi> The Copy of the Oath taken by all the Members of the Parliament in <hi>Scotland,</hi> and ſome Orders made ſince their ſitting.</p>
+            <p>
+               <add>March. 16</add> 
+               <hi>London,</hi> Printed for <hi>B.D.</hi> and are to be ſold neer the Royall Exchange in <hi>Cornhill,</hi> 1648. <add>1647<g ref="char:punc">▪</g>
+               </add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:161530:2"/>
+            <!-- PDF PAGE 57 -->
+            <pb n="1" facs="tcp:161530:2"/>
+            <!-- PDF PAGE 57 -->
+            <head>THE DEMANDS OF The Parliament of <hi>Scotland</hi> to the Parliament of <hi>England,</hi> ſent in a Letter from the Parliament of <hi>Scotland</hi> to the Houſe of Commons in <hi>England.</hi>
+            </head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>S the Parliament of this Kingdom doth ac<g ref="char:EOLhyphen"/>knowledge the zeale and endeavours of the Honourable Houſes of Parliament, for the good progreſſe already made to<g ref="char:EOLhyphen"/>wards Reformation of Religion and U<g ref="char:EOLhyphen"/>niformity of Church-Government: Go is it expected, that when they ſhall ſeri<g ref="char:EOLhyphen"/>ouſly conſider the brotherly affection, and great ſufferings of this Kingdom, who from a peaceable condition which
+<pb n="1" facs="tcp:161530:3"/>
+               <!-- PDF PAGE 58 -->we formerly enjoyed, did ingage our ſelves in a dangerous and bloudy war with England againſt their enemies, when their affairs were in the hardeſt and loweſt condition, upon a mutual League and Covenant, to ſettle Religion and Church government, according to the Word of God, the practiſe of the beſt Reformed Churches, and as might draw the nee<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſt Uniformity betwixt the two Kingdoms, which was acknowledged to be the chief grounds of craving Ayd and Aſſiſtance from this Kingdom the Honourable Houſes will now, after ſo mature deliberation, adde their Authority and Civil Sanction without further delay, to what the pi<g ref="char:EOLhyphen"/>ous and learned Aſſembly of Divines, upon mature delibe<g ref="char:EOLhyphen"/>ration, have adviſed to be moſt agreeable to the Word of God, and perfect what remains to be done in the Work, ac<g ref="char:EOLhyphen"/>cording to the Covenant; which I am commanded by the Parliament of this Kingdom to demand, and do according<g ref="char:EOLhyphen"/>ly in their Names demand of the Honourable Houſes of Parliament of England: The performance whereof will be moſt acceptable to this Kirk and Kingdom, as a ſpeciall re<g ref="char:EOLhyphen"/>compence of the labours and bloud which hath been ſhed <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> aſſiſting you to promote the Cauſe of God, and will be a mean to procure Gods bleſſing upon the proceedings and undertakings of both Kingdoms: And the Parliament of this Kingdom is perſwaded, That the piety and wiſdome of the Honourable Houſes, will never admit any toleration of any Sects or Schiſms, contrary to our Solemn and Sacred Covenant.</p>
+            <p>The next deſire of the Parliament of this Kingdom (and which of all things next to truth is moſt deſireable) is, That all lawfull meanes be uſed, for attaining a juſt and well-grounded peace, that there may be an end of the great di<g ref="char:EOLhyphen"/>ſtractions, and unnatural war of all the three kingdoms.</p>
+            <p>
+               <pb n="3" facs="tcp:161530:3"/>
+               <!-- PDF PAGE 58 -->
+This kingdome lyeth under the burthen of great and vaſt expence, in raiſing add entertaining Armies, and hath with the loſſe of the lives of many precious men, ſet their owne houſes of fire to quench the flame of yours, and almoſt de<g ref="char:EOLhyphen"/>ſtroye<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their own Nation to preſerve yours.</p>
+            <p>And ſeeing by the ſeaſonable aſſiſtance, afforded by this <gap reason="illegible" extent="5+ letters">
+                  <desc>•••••…</desc>
+               </gap>m to you, and by the late ſucceſſes wherewith God <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> your Armies, you are in a great meaſure freed of <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> trouble, and are in a far better capacity to pay the monie to our Armies, then you were at any time ſince the beginging of theſe wars.</p>
+            <p>I am likewiſe commanded by the Parliament of this kingdom, to demand, and accordingly do in their name de<g ref="char:EOLhyphen"/>mand of both Houſes of Parliament, to make payment be<g ref="char:EOLhyphen"/>fore the ſums of money duly owing by them to this King come, that ſo this Kingdome may thereby relieved of the great burthens and preſſures of our debts contracted in this Cauſe, and be enabled and encouraged for joynt carrying on of the war, till the Church of God be ſetled in purity and peade.</p>
+            <p>And it is further craved from the Juſtice of the Honou<g ref="char:EOLhyphen"/>rable Houſes of Parliament, that they will take into their ſerious conſideration, the great loſſes ſuſtained by this king<g ref="char:EOLhyphen"/>dom at Sea, through the not attendance of their ſhips upon our Coaſts, according to the Treaty, and make reparation thereof; and of the loſſes which Scotland hath ſuſtained by the Iriſh Invaſion, which the Kingdom of England is bound to ſuppreſſe by the large Treaty.</p>
+            <p>In all which, the Deſires of the Parliament of this King<g ref="char:EOLhyphen"/>dom are no other, then that Religion and Church-govern<g ref="char:EOLhyphen"/>ment may be ſetled according to our Covenant, That a well-grounded peaceimay be endeavoured betwixt the King
+<pb n="1" facs="tcp:161530:4"/>
+               <!-- PDF PAGE 59 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="3" facs="tcp:161530:4"/>
+               <!-- PDF PAGE 59 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:161530:5"/>
+               <!-- PDF PAGE 60 -->and his Subjects, That payment be made of the ſums due to this Kingdome and our Armies by Treaty: and that (againſt the malice of our open Enemies, and ſecret plots of ſuch as for their own ends, are labouring to ſow ſedition betwixt Brethren, tyed by ſo many relations) mutual Amity and U<g ref="char:EOLhyphen"/>nion between the Kingdoms, may be ſtrengthned and perpe<g ref="char:EOLhyphen"/>tuated to al Poſterity. We reſt,</p>
+            <closer>
+               <signed>Your moſt affectionate friends,
+<list>
+                     <item>
+                        <hi>Crawford</hi> and</item>
+                     <item>
+                        <hi>Lindſey.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>For the Right Honourable the Lords and Commons aſsembled at VVestminster.</trailer>
+         </div>
+         <div type="letter">
+            <head>A Letter to a private Gentleman.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>WHen the Parliament of Scotland met together, after ſome queſtions about Elections were over, they took the uſual Oath appointed to be taken by the Members of Parliament, and made an Order of ſecrecy, to prevent the divulging of their Debates, before the Houſe ſhould per<g ref="char:EOLhyphen"/>fect the ſame, and hold them fit for publike view; and one thing which is much wondred at, is, that the Inſtructions of the Engliſh Commiſſioners were in print at <hi>Edinburgh,</hi> be<g ref="char:EOLhyphen"/>fore
+<pb n="5" facs="tcp:161530:5"/>
+               <!-- PDF PAGE 60 -->the Comiſſioners themſelves came thither. The Com<g ref="char:EOLhyphen"/>miſſioners ſince the ſitting of the Parliament have had ſe<g ref="char:EOLhyphen"/>veral meetings with the Committee appointed to receive their papers, and receive the tranſaction of buſineſſe from them, who are to make report thereof to the Houſe; but what the iſſue wil be, as yet cannot be knowne. The Lord <hi>London,</hi> and other of the Commiſſioners which were in England, are in great eſteem, and his Lordſhip is made Lord Preſidenu.</p>
+            <closer>
+               <salute>SIR,</salute> 
+               <signed>I am your humble ſervant, <hi>J. M.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="Parliamentary_oath">
+            <head>An Oath taken by the Parliament in <hi>Scotland.</hi>
+            </head>
+            <p>FOraſmuch, as the Laws and Liberties of this Kingdome and the purity of Religion, ought to be ſought after by all good Chriſtians and loyall Subjects, and ought to bee maintained and furthered by them, againſt all ſuch, as ſhall by any means endeavour to ſhake or ſubvert the ſame.</p>
+            <p>Therefore we under-ſcribers, and every one of us, doe in the preſence of Almighty God promiſe and vow, that in this preſent Parliament, we ſhal faithfully and freely ſpeak anſwer and expreſſe our ſelves upon all and every thing which ſhal be propounded, ſo far as we think in our con<g ref="char:EOLhyphen"/>ſcience may conduce to the glory of God, the good and peace of the Kirk, and State of this Kingdome, and employ
+<pb n="6" facs="tcp:161530:6"/>
+               <!-- PDF PAGE 61 -->our beſt endeavours to promote the ſame, and ſhall in no way adviſe, voice, nor conſent to any thing to our beſt knowledge, we think not moſt expedient and conduceable thereunto. As alſo that we ſhal endeavour to preſerve and defend His Majeſties Royal Perſon, the power and priviled<g ref="char:EOLhyphen"/>ges of Parliament, and the Laws and Liberties of the Sub<g ref="char:EOLhyphen"/>ject, and by all good wayes and meanes oppoſe and endea<g ref="char:EOLhyphen"/>vour to bring to exact tryal all ſuch, as either by plots or conſpiracies have done, or ſhal doe any thing to the preju<g ref="char:EOLhyphen"/>dice of the purity of Religion, the Laws, Liberties, and peace of the Kingdom. And further, that we ſhal in all juſt and ho<g ref="char:EOLhyphen"/>nourable wayes endeavour to preſerve union and peace be<g ref="char:EOLhyphen"/>twixt the three Kingdoms of <hi>Scotland, England,</hi> and <hi>Ireland,</hi> and neither for hope, fear, nor other reſpect ſhal relinquiſh this vow and promiſe.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
